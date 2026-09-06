@@ -1,16 +1,16 @@
-## Hi there 👋
+### `whoami`
+$ cat about.txt
 
-<!--
-**maharaufff/maharaufff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Maha. I'm an AI/ML engineer who builds things where machine learning meets the real world, and I like solving problems most people skip because they're "too messy" for either side.
 
-Here are some ideas to get you started:
+- 🔭 Currently building: DropSpot3D — a WebMCP-based tool that turns car photos/videos into a 3D model and lets an AI agent pin and report defects on it
+- 🌱 Learning: deeper ML systems + full-stack dev
+- 🔗 LinkedIn: [linkedin.com/in/maha-rauf-0532432a8](https://www.linkedin.com/in/maha-rauf-0532432a8)
+- 📫 Portfolio: (https://maharaufff.github.io/portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Toolbox
+![Skills](https://skillicons.dev/icons?i=py,html,css,js,figma,git,github)
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=maharaufff&show_icons=true&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=maharaufff&theme=radical)
