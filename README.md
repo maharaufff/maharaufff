@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FFB000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Maha+%F0%9F%91%8B;AI%2FML+Engineer;Building+DropSpot3D+%2B+SpeakFlow)
 
-![Banner](me.jpeg)
+<img src="maha.gif" width="180" />
 
 ### `whoami`
 $ cat about.txt
