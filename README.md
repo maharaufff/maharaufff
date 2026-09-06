@@ -165,7 +165,7 @@ Contributed to frontend development work as part of the engineering team.
 
 ###  Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maharaufff&theme=react-dark)
+![Activity Graph](https://raw.githubusercontent.com/maharaufff/maharaufff/output-activity/activity-graph.svg)
 
 ###  Contribution Snake
 
