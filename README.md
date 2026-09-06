@@ -112,7 +112,7 @@ A Flutter frontend with a Python backend and AI/ML components. Owns DevOps and i
 
 ---
 
-### Experience
+###  Experience
 
 **AI/ML Engineer Intern** · Netsol Technologies
 *July 2026 – Present*
@@ -156,9 +156,8 @@ Contributed to frontend development work as part of the engineering team.
 
 ###  GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=maharaufff&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=maharaufff&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maharaufff&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://raw.githubusercontent.com/maharaufff/maharaufff/main/generated/overview.svg)
+![Top Langs](https://raw.githubusercontent.com/maharaufff/maharaufff/main/generated/languages.svg)
 
 ###  GitHub Trophies
 
