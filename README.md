@@ -20,7 +20,7 @@
 
 ---
 
-### 📌 About
+###  About
 
 AI/ML Engineer and full-stack developer focused on building systems where machine learning meets real, usable products — not just notebooks. Currently working across Generative AI and autonomous AI systems, with hands-on experience spanning RAG pipelines, computer-vision-driven 3D interfaces, and the DevOps/MLOps work needed to actually ship a model. I care as much about the engineering around an AI feature — data pipelines, retrieval, integration, testing — as the model itself.
 
@@ -28,7 +28,7 @@ AI/ML Engineer and full-stack developer focused on building systems where machin
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 **Languages**
 ![Languages](https://skillicons.dev/icons?i=py,js,html,css)
@@ -44,7 +44,7 @@ AI/ML Engineer and full-stack developer focused on building systems where machin
 
 ---
 
-### 🤖 AI / ML Expertise
+###  AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -56,7 +56,7 @@ AI/ML Engineer and full-stack developer focused on building systems where machin
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <details>
 <summary><b>DropSpot3D</b> — WebMCP-based automobile defect detection</summary>
@@ -112,7 +112,7 @@ A Flutter frontend with a Python backend and AI/ML components. Owns DevOps and i
 
 ---
 
-### 💼 Experience
+### Experience
 
 **AI/ML Engineer Intern** · Netsol Technologies
 *July 2026 – Present*
@@ -126,7 +126,7 @@ Contributed to frontend development work as part of the engineering team.
 
 ---
 
-### 🏆 Achievements
+###  Achievements
 
 <div align="center">
 
@@ -138,7 +138,7 @@ Contributed to frontend development work as part of the engineering team.
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 **Cisco**
 ![CCNA](https://img.shields.io/badge/CCNA:_Introduction_to_Networks-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
@@ -154,27 +154,27 @@ Contributed to frontend development work as part of the engineering team.
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=maharaufff&show_icons=true&theme=tokyonight&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=maharaufff&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maharaufff&layout=compact&theme=tokyonight&hide_border=true)
 
-### 🏅 GitHub Trophies
+###  GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=maharaufff&theme=algolia&no-frame=true&row=1&column=6)
 
-### 📈 Contribution Activity
+###  Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maharaufff&theme=react-dark)
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/maharaufff/maharaufff/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🎯 Current Focus
+###  Current Focus
 
 ```yaml
 Learning: Deeper ML systems, agentic AI, MLOps at scale
@@ -185,7 +185,7 @@ Open To: AI/ML roles, Full-Stack roles, collaboration
 
 ---
 
-### 📬 Connect
+###  Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maharaufmahi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maha-rauf-0532432a8)
